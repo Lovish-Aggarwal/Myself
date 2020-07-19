@@ -15,4 +15,9 @@ My Skills:
 	3. Competitive Programming (3 Star Codechef)
 	4. Frontend Web D (HTML , CSS , BOOTSTRAP)
 	5. Backend (Mysql , php)
+
+My Goals : 
+	1. To Contribute in Open Source
+	2. Learn new skills and improve existing ones
+	3. Learn DSA  
  
